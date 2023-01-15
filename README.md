@@ -14,6 +14,7 @@ Reem Aboukhaddour¹*, Mohamed Hafez¹, Megan McDonald², Caroline S. Moffat³, S
 *Corresponding author
 
 Abstract
+
 ToxA is one of the most studied proteinaceous necrotrophic effectors produced by plant pathogens. It has been identified in four pathogens (Pyrenophora tritici-repentis, Parastagonospora nodorum, Parastagonospora pseudonodorum (formerly Parastagonospora avenaria f. sp. tritici) and Bipolaris sorokiniana) causing leaf spot diseases on cereals worldwide. To date, 24 different ToxA haplotypes have been identified. Some P. tritici-repentis and related species also express ToxB, another small protein necrotrophic effector. We present here a revised and standardised nomenclature for these effectors, which could be extended to other polyallelic genes found across multiple species. 
 
 
